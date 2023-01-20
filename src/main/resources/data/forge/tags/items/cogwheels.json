@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "create:cogwheel",
+    "extendedcogs:oak_cogwheel",
+    "extendedcogs:steel_cogwheel",
+    "extendedcogs:copper_cogwheel",
+    "extendedcogs:acacia_cogwheel",
+    "extendedcogs:dark_oak_cogwheel",
+    "extendedcogs:birch_cogwheel",
+    "extendedcogs:crimson_cogwheel",
+    "extendedcogs:jungle_cogwheel",
+    "extendedcogs:warped_cogwheel",
+    "extendedcogs:iron_cogwheel"
+  ]
+}

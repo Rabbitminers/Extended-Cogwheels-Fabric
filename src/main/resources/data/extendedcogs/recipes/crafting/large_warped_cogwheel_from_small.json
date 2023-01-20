@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedcogs:warped_cogwheel"
+    },
+    {
+      "item": "minecraft:warped_planks"
+    }
+  ],
+  "result": {
+    "item": "extendedcogs:large_warped_cogwheel"
+  }
+}

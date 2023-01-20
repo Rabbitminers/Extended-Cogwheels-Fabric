@@ -1,0 +1,17 @@
+
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "extendedcogs:crimson_cogwheel"
+    },
+    {
+      "item": "minecraft:crimson_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcogs:large_crimson_cogwheel"
+    }
+  ]
+}

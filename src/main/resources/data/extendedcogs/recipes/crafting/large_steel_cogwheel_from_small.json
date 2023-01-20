@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedcogs:steel_cogwheel"
+    },
+    {
+      "item": "forge:ingots/steel"
+    }
+  ],
+  "result": {
+    "item": "extendedcogs:large_steel_cogwheel"
+  }
+}

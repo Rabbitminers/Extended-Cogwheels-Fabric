@@ -1,0 +1,18 @@
+
+{
+  "variants": {
+    "axis=x": {
+      "model": "extendedcogs:block/birch_cogwheel",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "extendedcogs:block/birch_cogwheel"
+    },
+    "axis=z": {
+      "model": "extendedcogs:block/birch_cogwheel",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

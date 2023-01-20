@@ -1,0 +1,17 @@
+
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:shaft"
+    },
+    {
+      "tag": "forge:ingots/steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcogs:steel_cogwheel"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "extendedcogs:dark_oak_cogwheel"
+    },
+    {
+      "item": "minecraft:dark_oak_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcogs:large_dark_oak_cogwheel"
+    }
+  ]
+}

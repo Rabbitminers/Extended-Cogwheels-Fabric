@@ -1,0 +1,15 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extendedcogs:acacia_cogwheel"
+    },
+    {
+      "item": "minecraft:acacia_planks"
+    }
+  ],
+  "result": {
+    "item": "extendedcogs:large_acacia_cogwheel"
+  }
+}

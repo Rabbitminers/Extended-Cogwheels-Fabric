@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "extendedcogs:large_birch_cogwheel",
+    "extendedcogs:birch_cogwheel",
+    "extendedcogs:large_oak_cogwheel",
+    "extendedcogs:oak_cogwheel",
+    "extendedcogs:large_dark_oak_cogwheel",
+    "extendedcogs:dark_oak_cogwheel",
+    "extendedcogs:large_acacia_cogwheel",
+    "extendedcogs:acacia_cogwheel",
+    "extendedcogs:large_jungle_cogwheel",
+    "extendedcogs:jungle_cogwheel",
+    "extendedcogs:large_warped_cogwheel",
+    "extendedcogs:warped_cogwheel",
+    "extendedcogs:large_crimson_cogwheel",
+    "extendedcogs:crimson_cogwheel"
+  ]
+}

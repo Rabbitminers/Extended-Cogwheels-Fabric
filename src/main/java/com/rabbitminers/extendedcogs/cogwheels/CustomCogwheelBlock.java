@@ -1,6 +1,7 @@
 package com.rabbitminers.extendedcogs.cogwheels;
 
 import com.jozufozu.flywheel.core.PartialModel;
+import com.rabbitminers.extendedcogs.index.ExtendedCogwheelsTileEntities;
 import com.simibubi.create.AllTileEntities;
 import com.simibubi.create.content.contraptions.base.KineticTileEntity;
 import com.simibubi.create.content.contraptions.relays.elementary.CogWheelBlock;
@@ -33,8 +34,7 @@ public class CustomCogwheelBlock extends CogWheelBlock implements ICustomCogWhee
 	}
 	@Override
 	public BlockEntityType<? extends KineticTileEntity> getTileEntityType() {
-		return AllTileEntities.BRACKETED_KINETIC.get();
-		// return AddonTileEntities.BRACKETED_KINETIC.get();
+		return ExtendedCogwheelsTileEntities.BRACKETED_KINETIC.get();
 	}
 	@Override
 	public InteractionResult use(BlockState state, Level world, BlockPos pos, Player player, InteractionHand hand, BlockHitResult ray) {

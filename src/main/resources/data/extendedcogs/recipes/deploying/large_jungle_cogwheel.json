@@ -1,0 +1,17 @@
+
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "extendedcogs:jungle_cogwheel"
+    },
+    {
+      "item": "minecraft:jungle_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcogs:large_jungle_cogwheel"
+    }
+  ]
+}

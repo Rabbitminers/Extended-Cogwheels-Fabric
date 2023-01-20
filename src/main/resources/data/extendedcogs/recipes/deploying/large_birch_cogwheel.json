@@ -1,0 +1,17 @@
+
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "extendedcogs:birch_cogwheel"
+    },
+    {
+      "item": "minecraft:birch_planks"
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcogs:large_birch_cogwheel"
+    }
+  ]
+}
