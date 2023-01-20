@@ -1,5 +1,7 @@
 package com.rabbitminers.extendedcogs;
 
+import com.rabbitminers.extendedcogs.index.ExtendedCogwheelsBlocks;
+import com.rabbitminers.extendedcogs.index.ExtendedCogwheelsTileEntities;
 import com.simibubi.create.AllBlocks;
 import com.simibubi.create.Create;
 
@@ -27,18 +29,18 @@ public class ExtendedCogwheels implements ModInitializer {
 
 	public static CreativeModeTab ItemGroup = FabricItemGroupBuilder
 			.build(new ResourceLocation(ExtendedCogwheels.ID, "main"),
-					// TODO - CHANGE THIS INTO A COGWHEEL
-					() -> new ItemStack(AllBlocks.FLYWHEEL.get()));
+					() -> new ItemStack(ExtendedCogwheelsBlocks.CRIMSON_COGWHEEL.get()));
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Create addon mod [{}] is loading alongside Create [{}]!", NAME, Create.VERSION);
-		LOGGER.info(EnvExecutor.unsafeRunForDist(
-				() -> () -> "{} is accessing Porting Lib from the client!",
-				() -> () -> "{} is accessing Porting Lib from the server!"
-		), NAME);
+		ExtendedCogwheelsBlocks.register();
+		ExtendedCogwheelsTileEntities.register();
+		REGISTRATE.register();
+	}
+	public static CreateRegistrate registrate() {
+		return REGISTRATE;
 	}
 
-	public static ResourceLocation id(String path) {
+	public static ResourceLocation asResource(String path) {
 		return new ResourceLocation(ID, path);
 	}
 }
