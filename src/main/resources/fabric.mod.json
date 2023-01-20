@@ -16,6 +16,9 @@
   "entrypoints": {
     "main": [
       "com.rabbitminers.extendedcogs.ExtendedCogwheels"
+    ],
+    "client": [
+      "com.rabbitminers.extendedcogs.ExtendedCogwheelsClient"
     ]
   },
   "mixins": [
