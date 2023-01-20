@@ -3,7 +3,7 @@
   "type": "create:deploying",
   "ingredients": [
     {
-      "item": "extendedcogs:oak_cogwheel"
+      "item": "extendedcogs:iron_cogwheel"
     },
     {
       "item": "minecraft:iron_ingot"

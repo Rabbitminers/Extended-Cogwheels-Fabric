@@ -1,5 +1,5 @@
 {
-  "itemGroup.extendedcogs": "Extended Cogs",
+  "itemGroup.extendedcogs.main": "Extended Cogs",
 
   "block.extendedcogs.acacia_cogwheel": "아카시아 톱니바퀴",
   "block.extendedcogs.large_acacia_cogwheel": "큰 아카시아 톱니바퀴",

@@ -1,5 +1,5 @@
 {
-  "itemGroup.extendedcogs": "Extended Cogs",
+  "itemGroup.extendedcogs.main": "Extended Cogs",
 
   "block.extendedcogs.acacia_cogwheel": "Acacia Cogwheel",
   "block.extendedcogs.large_acacia_cogwheel": "Large Acacia Cogwheel",
