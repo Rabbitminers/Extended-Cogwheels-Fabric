@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "extendedcogs",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Extended Cogwheels",
+  "description": "A small addon mod to the Create Mod implementing new types of cogwheels to help you decorate and organise",
   "authors": [
-    "Me!"
+    "Rabbitminers"
   ],
   "contact": {
-    "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
+    "sources": "https://github.com/Rabbitminers"
   },
   "license": "CC0",
   "icon": "assets/modid/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.modid.ExampleMod"
+      "com.rabbitminers.extendedcogs.ExtendedCogwheels"
     ]
   },
   "mixins": [
