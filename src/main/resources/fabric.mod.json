@@ -24,8 +24,8 @@
     "extendedcogs.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=${fabric_loader_version}",
-    "fabric": ">=${fabric_api_version}",
+    "fabricloader": ">=${loader_version}",
+    "fabric": ">=${fabric_version}",
     "flywheel": "*",
     "minecraft": ">=${minecraft_version}"
   }
