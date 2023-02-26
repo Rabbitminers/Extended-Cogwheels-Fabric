@@ -7,13 +7,13 @@
   ],
   "key": {
     "G": {
-      "tag": "forge:plates/gold"
+      "tag": "c:gold_plates"
     },
     "P": {
       "tag": "forge:cogwheels"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "tag": "c:wooden_rods"
     }
   },
   "result": {
