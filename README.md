@@ -1,5 +1,5 @@
 # Extended Cogwheels Fabric
-Deprected as of the migration to multiloader here - https://github.com/Rabbitminers/Extended-Cogs
+Deprected as of the migration to multiloader here - https://github.com/Rabbitminers/Extended-Cogwheels
 
 Official Fabric port of <a href="https://github.com/Rabbitminers/Extended-Cogs">Create: Extended Cogwheels</a> 
 
